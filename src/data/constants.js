@@ -7,7 +7,7 @@ export const Bio = {
   description:
     "Passionate tech enthusiast with expertise in front-end development, particularly in the MERN Stack. Skilled in CSS, JavaScript, and other key languages. Excels in crafting user-centric websites and solving real-world problems. Eager to tackle challenges and thrive as a Front-End Developer.",
   github: "https://github.com/7he9ight0wl",
-  resume: "https://drive.google.com/file/d/1CjwohF7Nt86BACizdFLp8NNfHnQpzrd1/view?usp=drive_link",
+  resume: "https://drive.google.com/file/d/12alkWVtAaYAmxzVr9KXwYGJlxXJpOfMM/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/7he9ight0wl",
   insta: "https://www.instagram.com/7he.9ight.0wl/",
   facebook: "https://www.facebook.com/pradu53",
