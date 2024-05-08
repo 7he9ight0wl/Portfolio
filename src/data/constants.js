@@ -189,16 +189,16 @@ export const certifications = [
 export const education = [
   {
     id: 1,
-    img: "https://scontent.fbom3-2.fna.fbcdn.net/v/t39.30808-6/300378099_399649965606286_5198057537405218619_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=HIhnZbIQt6sAb4k0LWD&_nc_ht=scontent.fbom3-2.fna&oh=00_AfBdLF3fMJMufP2oT21P4gAWryZQ8ASsScuaXpNGnk-xMA&oe=662C2E4A",
+    img: "https://banner2.cleanpng.com/20180509/lqq/kisspng-university-of-mumbai-alkesh-dinesh-mody-institute-5af2a63dc98cd9.9610869015258517098256.jpg",
     school: "Shivajirao Jondhale College of Engineering, Mumbai",
     date: "Jun 2018 - May 2022",
     grade: "7.6",
     desc: "I pursued a Bachelor's degree in Mechanical Engineering at Shivajirao Jondhale College of Engineering, Mumbai. During my studies, I focused on subjects like Thermodynamics, Fluid Mechanics, Machine Design, and Industrial Engineering.",
-    degree: "Bachelor in Mechanical Engineering (B.E)",
+    degree: "Bachelor in Engineering (B.E)",
   },
   {
     id: 2,
-    img: "https://scontent.fbom3-1.fna.fbcdn.net/v/t39.30808-6/287170767_446034414213686_6580783699235884142_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=oe49YhmBBDIAb4jcBl8&_nc_ht=scontent.fbom3-1.fna&oh=00_AfDp0cMq6Ao402DdtHg1R3MdXLz7tttXF77NB3MPUg1WuA&oe=662C4469",
+    img: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Msbte.png",
     school: "Maharashtra State Board of Technical Education (MSBTE), Mumbai",
     date: "Jun 2014 - May 2018",
     desc: "I completed my Diploma in Mechanical Engineering from Maharashtra State Board of Technical Education (MSBTE), Mumbai. This program provided me with a strong foundation in Mechanical Engineering principles and practical skills.",
@@ -206,7 +206,7 @@ export const education = [
   },
   {
     id: 3,
-    img: "https://scontent.fbom3-1.fna.fbcdn.net/v/t39.30808-6/301114651_155818210450785_2149029333066773226_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=PPX3NDpVE98Ab62DWe2&_nc_ht=scontent.fbom3-1.fna&oh=00_AfATbfZHWjuGMMBAHJ0kZoYD1a9fyullgXNuBNyGaNL8Pw&oe=662C1573",
+    img: "https://w7.pngwing.com/pngs/921/740/png-transparent-black-text-with-logo-illustration-mumbai-government-of-india-government-of-maharashtra-logo-government-miscellaneous-emblem-label-thumbnail.png",
     school: "Fatima Devi English High School",
     date: "Year 2014",
     desc: "I completed my high school education at Fatima Devi English High School.",
