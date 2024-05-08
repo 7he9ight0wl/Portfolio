@@ -250,6 +250,17 @@ export const projects = [
       webapp: "https://news-monkey-static.vercel.app/"
     },
     {
+      id: 1,
+      title: "Text-Modifier",
+      date: "March 2023 - Present",
+      description: "TransformText: React component for dynamic text modification with ease. Apply uppercase, lowercase, title case, and more instantl",
+      image: "https://addons.mozilla.org/user-media/previews/full/228/228908.png?modified=1622134213",
+      tags: ["React", "JavaScript", "Text Modifier"],
+      category: "web app",
+      github: "https://github.com/7he9ight0wl/TextModifier",
+      webapp: "https://text-modifier-one.vercel.app/"
+    },
+    {
       id: 0,
       title: "TodoList",
       date: "Jul 2023 - Present",
