@@ -225,7 +225,7 @@ export const projects = [
       tags: ["Vite", "React.js", "HTML", "CSS", "JavaScript"],
       category: "web app",
       github: "https://github.com/7he9ight0wl/Ochi_Clone_Dark",
-      webapp: "https://ochi-clone-dark-8jgk.vercel.app/"
+      webapp: "https://ochi-clone-dark-8jgk-7he9ight0wls-projects.vercel.app/"
     },
      {
       id: 3,
