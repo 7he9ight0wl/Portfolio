@@ -216,7 +216,18 @@ export const education = [
 ];
 
 export const projects = [
-    {
+       {
+      id: 3,
+      title: "Ochi Clone",
+      date: "June 2024 - Present",
+      description: "Welcome to the Ochi Clone, a fast, responsive web app built with Vite and React.js, featuring a sleek interface and dynamic components.",
+      image: "https://assets.awwwards.com/awards/element/2022/07/62bf690b6a137897567083.png",
+      tags: ["Vite", "React.js", "HTML", "CSS", "JavaScript"],
+      category: "web app",
+      github: "https://github.com/7he9ight0wl/Ochi_Clone_Dark",
+      webapp: "https://ochi-clone-dark-b9yh6dck2-7he9ight0wls-projects.vercel.app/"
+    },
+     {
       id: 3,
       title: "IMDB Clone",
       date: "Feb 2023 - Present",
