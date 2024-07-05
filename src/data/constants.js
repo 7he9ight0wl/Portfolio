@@ -185,7 +185,7 @@ export const certifications = [
   },
   {
     id: 5,
-    img: "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Goldman_Sachs.svg/1200px-Goldman_Sachs.svg.png",
+    img: "https://banner2.cleanpng.com/20180815/pqr/kisspng-logo-goldman-sachs-vector-graphics-brand-font-sponsors-imperial-college-eesoc-electrical-engin-5b7448af33eda6.5907996815343474392127.jpg",
     role: "Goldman Sachs - Software Engineering Job Simulation",
     company: "Forage",
     date: "June 2024",
@@ -194,7 +194,7 @@ export const certifications = [
   },
   {
     id: 6,
-    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hewlett_Packard_Enterprise_logo.svg/1200px-Hewlett_Packard_Enterprise_logo.svg.png",
+    img: "https://banner2.cleanpng.com/20181125/wjb/kisspng-hewlett-packard-logo-hewlett-packard-enterprise-co-hpe-24-gb-ddr3l-ecc-memory-7615-1-b21-24-gb-3-x-5bfa387c193ac8.2387553215431251161034.jpg",
     role: "Hewlett Packard Enterprise - Software Engineering Job Simulation",
     company: "Forage",
     date: "June 2024",
@@ -203,7 +203,7 @@ export const certifications = [
   },
   {
     id: 7,
-    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Walmart_logo.svg/1280px-Walmart_logo.svg.png",
+    img: "https://banner2.cleanpng.com/20180715/zas/kisspng-nanshing-america-inc-walmart-logo-bentonville-busi-logo-walmart-5b4b7ec7c477c6.9426796115316743118047.jpg",
     role: "Walmart USA - Advanced Software Engineering Job Simulation",
     company: "Forage",
     date: "June 2024",
@@ -212,7 +212,7 @@ export const certifications = [
   },
   {
     id: 8,
-    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Citi.svg/1200px-Citi.svg.png",
+    img: "https://banner2.cleanpng.com/20180614/xot/kisspng-nyse-c-citigroup-citibank-vietnam-citigroup-logo-5b232731e0c449.9700212615290304499207.jpg",
     role: "Citi - Investment Banking Job Simulation",
     company: "Forage",
     date: "May 2024",
@@ -221,7 +221,7 @@ export const certifications = [
   },
   {
     id: 9,
-    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/JP_Morgan_Chase_Logo_2008_1.svg/1280px-JP_Morgan_Chase_Logo_2008_1.svg.png",
+    img: "https://logos-world.net/jpmorgan-chase-logo/",
     role: "J.P. Morgan - Software Engineering Job Simulation",
     company: "Forage",
     date: "May 2024",
@@ -230,7 +230,7 @@ export const certifications = [
   },
   {
     id: 10,
-    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/JP_Morgan_Chase_Logo_2008_1.svg/1280px-JP_Morgan_Chase_Logo_2008_1.svg.png",
+    img: "https://logos-world.net/jpmorgan-chase-logo/",
     role: "JPMorgan Chase - Commercial Banking Job Simulation",
     company: "Forage",
     date: "May 2024",
