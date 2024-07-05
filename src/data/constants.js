@@ -101,7 +101,7 @@ export const skills = [
       {
         name: "Adobe XD",
         image:
-          "https://www.logo.wine/logo/Adobe_XD",
+          "https://iconduck.com/icons/240229/adobe-xd",
       },
       {
         name: "Adobe Photoshop",
@@ -221,7 +221,7 @@ export const certifications = [
   },
   {
     id: 9,
-    img: "https://logos-world.net/jpmorgan-chase-logo/",
+    img: "https://e7.pngegg.com/pngimages/336/26/png-clipart-jpmorgan-chase-business-wells-fargo-chase-bank-financial-services-business-text-rectangle.png",
     role: "J.P. Morgan - Software Engineering Job Simulation",
     company: "Forage",
     date: "May 2024",
@@ -230,7 +230,7 @@ export const certifications = [
   },
   {
     id: 10,
-    img: "https://logos-world.net/jpmorgan-chase-logo/",
+    img: "https://e7.pngegg.com/pngimages/336/26/png-clipart-jpmorgan-chase-business-wells-fargo-chase-bank-financial-services-business-text-rectangle.png",
     role: "JPMorgan Chase - Commercial Banking Job Simulation",
     company: "Forage",
     date: "May 2024",
