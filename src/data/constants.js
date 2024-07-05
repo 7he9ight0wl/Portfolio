@@ -95,14 +95,7 @@ export const skills = [
 
     ],
   },
-  {
-    title: "Design Tools",
-    skills: [
-      {
-        name: "Adobe XD",
-        image:
-          "https://iconduck.com/icons/240229/adobe-xd",
-      },
+  
       {
         name: "Adobe Photoshop",
         image:
