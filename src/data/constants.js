@@ -244,7 +244,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Msbte.png",
+    img: "https://msbte.org.in/MSBTE_Logo/logo.png",
     school: "Maharashtra State Board of Technical Education (MSBTE), Mumbai",
     date: "Jun 2014 - May 2018",
     desc: "I completed my Diploma in Mechanical Engineering from Maharashtra State Board of Technical Education (MSBTE), Mumbai. This program provided me with a strong foundation in Mechanical Engineering principles and practical skills.",
