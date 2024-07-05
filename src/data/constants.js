@@ -183,8 +183,61 @@ export const certifications = [
     desc: "Certification in Introduction to JAVA programming language, obtained from Coding Ninjas.",
     skills: ["Java", "Programming Fundamentals"],
   },
+  {
+    id: 5,
+    img: "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Goldman_Sachs.svg/1200px-Goldman_Sachs.svg.png",
+    role: "Goldman Sachs - Software Engineering Job Simulation",
+    company: "Forage",
+    date: "June 2024",
+    desc: "Certification in Software Engineering Job Simulation, obtained from Forage.",
+    skills: ["Software Engineering", "Job Simulation"],
+  },
+  {
+    id: 6,
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hewlett_Packard_Enterprise_logo.svg/1200px-Hewlett_Packard_Enterprise_logo.svg.png",
+    role: "Hewlett Packard Enterprise - Software Engineering Job Simulation",
+    company: "Forage",
+    date: "June 2024",
+    desc: "Certification in Software Engineering Job Simulation, obtained from Forage.",
+    skills: ["Software Engineering", "Job Simulation"],
+  },
+  {
+    id: 7,
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Walmart_logo.svg/1280px-Walmart_logo.svg.png",
+    role: "Walmart USA - Advanced Software Engineering Job Simulation",
+    company: "Forage",
+    date: "June 2024",
+    desc: "Certification in Advanced Software Engineering Job Simulation, obtained from Forage.",
+    skills: ["Advanced Software Engineering", "Job Simulation"],
+  },
+  {
+    id: 8,
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Citi.svg/1200px-Citi.svg.png",
+    role: "Citi - Investment Banking Job Simulation",
+    company: "Forage",
+    date: "May 2024",
+    desc: "Certification in Investment Banking Job Simulation, obtained from Forage.",
+    skills: ["Investment Banking", "Job Simulation"],
+  },
+  {
+    id: 9,
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/JP_Morgan_Chase_Logo_2008_1.svg/1280px-JP_Morgan_Chase_Logo_2008_1.svg.png",
+    role: "J.P. Morgan - Software Engineering Job Simulation",
+    company: "Forage",
+    date: "May 2024",
+    desc: "Certification in Software Engineering Job Simulation, obtained from Forage.",
+    skills: ["Software Engineering", "Job Simulation"],
+  },
+  {
+    id: 10,
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/JP_Morgan_Chase_Logo_2008_1.svg/1280px-JP_Morgan_Chase_Logo_2008_1.svg.png",
+    role: "JPMorgan Chase - Commercial Banking Job Simulation",
+    company: "Forage",
+    date: "May 2024",
+    desc: "Certification in Commercial Banking Job Simulation, obtained from Forage.",
+    skills: ["Commercial Banking", "Job Simulation"],
+  },
 ];
-
 
 export const education = [
   {
