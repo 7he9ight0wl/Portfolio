@@ -34,7 +34,7 @@ export const skills = [
       {
         name: "SAP MM",
         image:
-          "https://www.sapterms.com/wp-content/uploads/2021/10/sap-mm.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg",
       },
       {
         name: "Power Query",
