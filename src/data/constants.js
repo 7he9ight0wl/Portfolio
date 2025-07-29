@@ -19,7 +19,7 @@ export const skills = [
       {
         name: "Power BI",
         image:
-          "https://chatgpt.com/c/6888c91d-a000-8008-809f-5db96474050b",
+          "https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png",
       },
       {
         name: "Advanced Excel",
@@ -116,33 +116,6 @@ export const certifications = [
     skills: ["Java", "Programming Fundamentals"],
   },
   {
-    id: 5,
-    img: "https://banner2.cleanpng.com/20180815/pqr/kisspng-logo-goldman-sachs-vector-graphics-brand-font-sponsors-imperial-college-eesoc-electrical-engin-5b7448af33eda6.5907996815343474392127.jpg",
-    role: "Goldman Sachs - Software Engineering Job Simulation",
-    company: "Forage",
-    date: "June 2024",
-    desc: "Certification in Software Engineering Job Simulation, obtained from Forage.",
-    skills: ["Software Engineering", "Job Simulation"],
-  },
-  {
-    id: 6,
-    img: "https://banner2.cleanpng.com/20181125/wjb/kisspng-hewlett-packard-logo-hewlett-packard-enterprise-co-hpe-24-gb-ddr3l-ecc-memory-7615-1-b21-24-gb-3-x-5bfa387c193ac8.2387553215431251161034.jpg",
-    role: "Hewlett Packard Enterprise - Software Engineering Job Simulation",
-    company: "Forage",
-    date: "June 2024",
-    desc: "Certification in Software Engineering Job Simulation, obtained from Forage.",
-    skills: ["Software Engineering", "Job Simulation"],
-  },
-  {
-    id: 7,
-    img: "https://banner2.cleanpng.com/20180715/zas/kisspng-nanshing-america-inc-walmart-logo-bentonville-busi-logo-walmart-5b4b7ec7c477c6.9426796115316743118047.jpg",
-    role: "Walmart USA - Advanced Software Engineering Job Simulation",
-    company: "Forage",
-    date: "June 2024",
-    desc: "Certification in Advanced Software Engineering Job Simulation, obtained from Forage.",
-    skills: ["Advanced Software Engineering", "Job Simulation"],
-  },
-  {
     id: 8,
     img: "https://banner2.cleanpng.com/20180614/xot/kisspng-nyse-c-citigroup-citibank-vietnam-citigroup-logo-5b232731e0c449.9700212615290304499207.jpg",
     role: "Citi - Investment Banking Job Simulation",
@@ -174,7 +147,7 @@ export const certifications = [
 export const education = [
   {
     id: 1,
-    img: "https://banner2.cleanpng.com/20180509/lqq/kisspng-university-of-mumbai-alkesh-dinesh-mody-institute-5af2a63dc98cd9.9610869015258517098256.jpg",
+    img: "https://e7.pngegg.com/pngimages/918/523/png-clipart-university-of-mumbai-alkesh-dinesh-mody-institute-for-financial-management-studies-college-school-emblem-logo-thumbnail.png",
     school: "Shivajirao Jondhale College of Engineering, Mumbai",
     date: "Jun 2018 - May 2022",
     grade: "7.6",
@@ -183,7 +156,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://msbte.org.in/MSBTE_Logo/logo.png",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThonAdm1RHtAtE4YU0fKJYh2rMBJxXXHlSTA&s",
     school: "Maharashtra State Board of Technical Education (MSBTE), Mumbai",
     date: "Jun 2014 - May 2018",
     desc: "I completed my Diploma in Mechanical Engineering from Maharashtra State Board of Technical Education (MSBTE), Mumbai. This program provided me with a strong foundation in Mechanical Engineering principles and practical skills.",
