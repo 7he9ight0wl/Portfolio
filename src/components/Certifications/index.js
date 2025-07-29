@@ -77,8 +77,8 @@ const Index = () => {
       <Wrapper>
         <Title>Certifications</Title>
         <Desc>
-          Through rigorous training at Coding Ninjas in the MERN stack, I gained comprehensive skills in MongoDB, Express.js, React, and Node.js. Leveraging this expertise, I developed several impactful projects, showcasing my proficiency and commitment. These projects spanned diverse domains, demonstrating my ability to create dynamic web applications and efficient database management systems. Throughout this journey, I honed my frontend and backend development skills, solving real-world challenges and fostering a spirit of innovation and continuous learning. My experience at Coding Ninjas has not only equipped me with technical prowess but also instilled in me a passion for pushing boundaries and delivering excellence in every project.
-        </Desc>
+         Certified in multiple industry-relevant programs with a strong emphasis on data analytics and business intelligence. My primary interest lies in transforming raw data into meaningful insights to support strategic decisions. From building automated dashboards in Excel and Power BI to applying SQL and SAP MM for operational analytics, I have focused my learning and certifications on tools that empower data-driven decision-making. These certifications reflect my commitment to advancing as a Data Analyst, capable of combining analytical thinking with technical expertise to solve real-world business problems.
+    </Desc>
 
         <TimelineSection>
           <Timeline>
