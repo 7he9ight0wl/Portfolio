@@ -19,7 +19,7 @@ export const skills = [
       {
         name: "Power BI",
         image:
-          "https://cdn.worldvectorlogo.com/logos/power-bi-1.svg",
+          "https://chatgpt.com/c/6888c91d-a000-8008-809f-5db96474050b",
       },
       {
         name: "Advanced Excel",
