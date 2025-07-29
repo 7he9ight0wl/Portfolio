@@ -35,11 +35,6 @@ export const skills = [
         name: "SAP MM",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg",
-      },
-      {
-        name: "Power Query",
-        image:
-          "https://cdn.worldvectorlogo.com/logos/power-bi-1.svg",
       }
     ],
   },
