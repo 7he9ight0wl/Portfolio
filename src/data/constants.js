@@ -39,7 +39,7 @@ export const skills = [
       {
         name: "Power Query",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/f/f3/Microsoft_Power_Query_logo.svg",
+          "https://cdn.worldvectorlogo.com/logos/power-bi-1.svg",
       }
     ],
   },
