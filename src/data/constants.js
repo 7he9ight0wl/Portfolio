@@ -38,24 +38,23 @@ export const skills = [
       }
     ],
   },
-  {
-    title: "Engineering & Simulation Tools",
-    skills: [
-      {
-        name: "ANSYS",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/4/4e/ANSYS_logo.svg",
-      },
-      {
-        name: "HyperWorks",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Altair_logo.svg/2560px-Altair_logo.svg.png",
-      },
-      {
-        name: "SolidWorks",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/5/5a/SolidWorks_Logo.png",
-      }
+ {
+  title: "Engineering & Simulation Tools",
+  skills: [
+    {
+      name: "ANSYS",
+      image: "https://www.ansys.com/content/dam/company/brand/logos/ansys-logos/ansys-logo.jpg",
+    },
+    {
+      name: "HyperWorks",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaox4mh-HlVO2xryvMDxxJulCSthchEd9MWA&s",
+    },
+    {
+      name: "SolidWorks",
+      image: "https://e7.pngegg.com/pngimages/253/469/png-clipart-logo-solidworks-corp-graphics-font-kajol-emblem-text.png",
+    }
+  ],
+}
     ],
   },
   {
@@ -70,7 +69,17 @@ export const skills = [
 ];
 
 export const certifications = [
-  {
+{
+  id: 0,
+  img: "https://discovertemplate.com/wp-content/uploads/2024/01/Accenture.jpg",
+  role: "Data Analytics and Visualization Job Simulation",
+  company: "Accenture North America (via Forage)",
+  date: "October 2024",
+  desc: "Completed a job simulation focused on advising a hypothetical social media client as a Data Analyst. Cleaned, modeled, and analyzed 7 datasets to uncover content trends, enabling strategic decisions. Delivered insights via a PowerPoint deck and video presentation for internal stakeholders.",
+  skills: ["Data Cleaning", "Exploratory Data Analysis", "Data Visualization", "Presentation"],
+}
+
+ {
     id: 0,
     img: "https://www.financialexpress.com/wp-content/uploads/2023/05/APIS-and-NxtWave-image-37-3.jpg",
     role: "Back End — Full Stack Web Development in Node.js",
