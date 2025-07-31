@@ -31,7 +31,7 @@ const Wrapper = styled.div`
   width: 100%;
   max-width: 1350px;
   padding: 80px 0;
-  gap: 12px;
+  gap: 60px;
   @media (max-width: 960px) {
     flex-direction: column;
   }
@@ -71,24 +71,68 @@ const TimelineSection = styled.div`
   gap: 12px;
 `;
 
+const ExperienceCard = ({ experience }) => (
+  <div>
+    <h3 style={{ margin: 0 }}>{experience.role}</h3>
+    <p style={{ margin: '4px 0' }}><strong>{experience.company}</strong> — {experience.date}</p>
+    <p style={{ margin: 0 }}>{experience.desc}</p>
+  </div>
+);
+
+const experiences = [
+  {
+    role: "Data Analyst",
+    company: "Lloyd Insulations Limited",
+    date: "Feb 2025 – May 2025",
+    desc: "Designed Excel dashboards for billing, attendance & material tracking using advanced formulas. Built Power BI visualizations to present KPIs in project reviews. Integrated SAP MM to reduce manual follow-ups by 50%.",
+  },
+  {
+    role: "Data Analyst – Marketing Analytics",
+    company: "H-Welore Sales",
+    date: "Sep 2024 – Feb 2025",
+    desc: "Developed Power BI dashboards to track inquiry-to-order flow. Automated proposal sheets, cutting prep time by 40%. Built client touchpoint database to analyze patterns and improve conversions.",
+  },
+];
+
 const Index = () => {
   return (
-    <Container id="certifications">
-      <Wrapper>
-        <Title> 
-    Certifications
-    </Title>
+    <Container>
+      <Wrapper id="Experience">
+        <Title>Experience</Title>
         <Desc>
-         Certified in multiple industry-relevant programs with a strong emphasis on data analytics and business intelligence. My primary interest lies in transforming raw data into meaningful insights to support strategic decisions. From building automated dashboards in Excel and Power BI to applying SQL and SAP MM for operational analytics, I have focused my learning and certifications on tools that empower data-driven decision-making. These certifications reflect my commitment to advancing as a Data Analyst, capable of combining analytical thinking with technical expertise to solve real-world business problems.
-    </Desc>
+          Practical experience in analyzing business and project data using tools like Excel (VLOOKUP, Pivot Tables, Macros), Power BI, SQL, and SAP MM. Skilled at building real-time dashboards, tracking KPIs, and supporting strategic decision-making through data insights.
+        </Desc>
+        <TimelineSection>
+          <Timeline>
+            {experiences.map((exp, index) => (
+              <TimelineItem key={index}>
+                <TimelineSeparator>
+                  <TimelineDot color="primary" />
+                  {index !== experiences.length - 1 && (
+                    <TimelineConnector style={{ background: '#854CE6' }} />
+                  )}
+                </TimelineSeparator>
+                <TimelineContent sx={{ py: '12px', px: 2 }}>
+                  <ExperienceCard experience={exp} />
+                </TimelineContent>
+              </TimelineItem>
+            ))}
+          </Timeline>
+        </TimelineSection>
 
+        <Title>Certifications</Title>
+        <Desc>
+          Certified in multiple industry-relevant programs with a strong emphasis on data analytics and business intelligence. From Excel automation and Power BI dashboards to SQL and SAP MM integration, my certifications highlight my growth as a data-driven problem solver.
+        </Desc>
         <TimelineSection>
           <Timeline>
             {certifications.map((certification, index) => (
               <TimelineItem key={index}>
                 <TimelineSeparator>
                   <TimelineDot variant="outlined" color="secondary" />
-                  {index !== certifications.length - 1 && <TimelineConnector style={{ background: '#854CE6' }} />}
+                  {index !== certifications.length - 1 && (
+                    <TimelineConnector style={{ background: '#854CE6' }} />
+                  )}
                 </TimelineSeparator>
                 <TimelineContent sx={{ py: '12px', px: 2 }}>
                   <CertificationsCard certification={certification} />
@@ -100,6 +144,6 @@ const Index = () => {
       </Wrapper>
     </Container>
   );
-}
+};
 
 export default Index;
