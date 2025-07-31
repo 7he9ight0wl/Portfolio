@@ -96,12 +96,13 @@ const experiences = [
 
 const Index = () => {
   return (
-    <Container>
+    <Container id="certifications">
       <Wrapper id="Experience">
-        <Title>Experience</Title>
+        <Title>Experience & Certifications</Title>
         <Desc>
-          Practical experience in analyzing business and project data using tools like Excel (VLOOKUP, Pivot Tables, Macros), Power BI, SQL, and SAP MM. Skilled at building real-time dashboards, tracking KPIs, and supporting strategic decision-making through data insights.
+          Hands-on experience in data analysis using Excel (VLOOKUP, Pivot Tables, Macros), Power BI, SQL, and SAP MM. Built dashboards, automated reporting, tracked KPIs, and integrated real-time business insights. Certified in multiple tools to deliver data-driven decisions and enhance operational performance.
         </Desc>
+
         <TimelineSection>
           <Timeline>
             {experiences.map((exp, index) => (
@@ -120,10 +121,6 @@ const Index = () => {
           </Timeline>
         </TimelineSection>
 
-        <Title>Certifications</Title>
-        <Desc>
-          Certified in multiple industry-relevant programs with a strong emphasis on data analytics and business intelligence. From Excel automation and Power BI dashboards to SQL and SAP MM integration, my certifications highlight my growth as a data-driven problem solver.
-        </Desc>
         <TimelineSection>
           <Timeline>
             {certifications.map((certification, index) => (
