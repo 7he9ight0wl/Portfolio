@@ -1,8 +1,6 @@
 export const Bio = {
   name: "Pradumana Mestry",
-  roles: [
-    "Data Analyst"
-  ],
+  roles: ["Data Analyst"],
   description:
     "Data Analyst with a Mechanical Engineering background. Proficient in Power BI, SQL, Excel Automation, and SAP MM. Skilled at building automated dashboards, transforming raw data into business insights, and improving operational efficiency across marketing, execution, and sales.",
   github: "https://github.com/7he9ight0wl",
@@ -18,43 +16,37 @@ export const skills = [
     skills: [
       {
         name: "Power BI",
-        image:
-          "https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png",
+        image: "https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png",
       },
       {
         name: "Advanced Excel",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg",
+        image: "https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg",
       },
       {
         name: "SQL",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png",
+        image: "https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png",
       },
       {
         name: "SAP MM",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg",
-      }
+        image: "https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg",
+      },
     ],
   },
- {
-  title: "Engineering & Simulation Tools",
-  skills: [
-    {
-      name: "ANSYS",
-      image: "https://www.ansys.com/content/dam/company/brand/logos/ansys-logos/ansys-logo.jpg",
-    },
-    {
-      name: "HyperWorks",
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaox4mh-HlVO2xryvMDxxJulCSthchEd9MWA&s",
-    },
-    {
-      name: "SolidWorks",
-      image: "https://e7.pngegg.com/pngimages/253/469/png-clipart-logo-solidworks-corp-graphics-font-kajol-emblem-text.png",
-    }
-  ],
-}
+  {
+    title: "Engineering & Simulation Tools",
+    skills: [
+      {
+        name: "ANSYS",
+        image: "https://www.ansys.com/content/dam/company/brand/logos/ansys-logos/ansys-logo.jpg",
+      },
+      {
+        name: "HyperWorks",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaox4mh-HlVO2xryvMDxxJulCSthchEd9MWA&s",
+      },
+      {
+        name: "SolidWorks",
+        image: "https://e7.pngegg.com/pngimages/253/469/png-clipart-logo-solidworks-corp-graphics-font-kajol-emblem-text.png",
+      },
     ],
   },
   {
@@ -63,24 +55,23 @@ export const skills = [
       { name: "Problem Solving" },
       { name: "Communication" },
       { name: "Time Management" },
-      { name: "Team Collaboration" }
-    ]
-  }
+      { name: "Team Collaboration" },
+    ],
+  },
 ];
 
 export const certifications = [
-{
-  id: 0,
-  img: "https://discovertemplate.com/wp-content/uploads/2024/01/Accenture.jpg",
-  role: "Data Analytics and Visualization Job Simulation",
-  company: "Accenture North America (via Forage)",
-  date: "October 2024",
-  desc: "Completed a job simulation focused on advising a hypothetical social media client as a Data Analyst. Cleaned, modeled, and analyzed 7 datasets to uncover content trends, enabling strategic decisions. Delivered insights via a PowerPoint deck and video presentation for internal stakeholders.",
-  skills: ["Data Cleaning", "Exploratory Data Analysis", "Data Visualization", "Presentation"],
-}
-,
- {
+  {
     id: 0,
+    img: "https://discovertemplate.com/wp-content/uploads/2024/01/Accenture.jpg",
+    role: "Data Analytics and Visualization Job Simulation",
+    company: "Accenture North America (via Forage)",
+    date: "October 2024",
+    desc: "Completed a job simulation focused on advising a hypothetical social media client as a Data Analyst. Cleaned, modeled, and analyzed 7 datasets to uncover content trends, enabling strategic decisions. Delivered insights via a PowerPoint deck and video presentation for internal stakeholders.",
+    skills: ["Data Cleaning", "Exploratory Data Analysis", "Data Visualization", "Presentation"],
+  },
+  {
+    id: 1,
     img: "https://www.financialexpress.com/wp-content/uploads/2023/05/APIS-and-NxtWave-image-37-3.jpg",
     role: "Back End — Full Stack Web Development in Node.js",
     company: "Coding Ninjas",
@@ -89,43 +80,43 @@ export const certifications = [
     skills: ["Node.js", "Express.js", "MongoDB"],
   },
   {
-    id: 1,
+    id: 2,
     img: "https://www.financialexpress.com/wp-content/uploads/2023/05/APIS-and-NxtWave-image-37-3.jpg",
     role: "Advance Front-End Web Development with React- Full Stack",
     company: "Coding Ninjas",
-    date: "Sept 2023 ",
+    date: "Sept 2023",
     desc: "Certification in Full Stack Web Development with a focus on Advance Front-End using React.js, obtained from Coding Ninjas.",
     skills: ["React.js", "Redux", "HTML", "CSS"],
   },
   {
-    id: 2,
+    id: 3,
     img: "https://www.financialexpress.com/wp-content/uploads/2023/05/APIS-and-NxtWave-image-37-3.jpg",
     role: "Front End — Full Stack Web Development",
     company: "Coding Ninjas",
-    date: "March 2023 ",
+    date: "March 2023",
     desc: "Certification in Full Stack Web Development with a focus on Front-End, obtained from Coding Ninjas.",
     skills: ["HTML", "CSS", "JavaScript"],
   },
   {
-    id: 3,
+    id: 4,
     img: "https://www.financialexpress.com/wp-content/uploads/2023/05/APIS-and-NxtWave-image-37-3.jpg",
     role: "Data Structures in JAVA",
     company: "Coding Ninjas",
-    date: "Jan 2023 ",
+    date: "Jan 2023",
     desc: "Certification in Data Structures using JAVA, obtained from Coding Ninjas.",
     skills: ["Data Structures", "Algorithms", "Java"],
   },
   {
-    id: 4,
+    id: 5,
     img: "https://www.financialexpress.com/wp-content/uploads/2023/05/APIS-and-NxtWave-image-37-3.jpg",
     role: "Introduction to JAVA",
     company: "Coding Ninjas",
-    date: "Sept 2022 ",
+    date: "Sept 2022",
     desc: "Certification in Introduction to JAVA programming language, obtained from Coding Ninjas.",
     skills: ["Java", "Programming Fundamentals"],
   },
   {
-    id: 8,
+    id: 6,
     img: "https://banner2.cleanpng.com/20180614/xot/kisspng-nyse-c-citigroup-citibank-vietnam-citigroup-logo-5b232731e0c449.9700212615290304499207.jpg",
     role: "Citi - Investment Banking Job Simulation",
     company: "Forage",
@@ -134,7 +125,7 @@ export const certifications = [
     skills: ["Investment Banking", "Job Simulation"],
   },
   {
-    id: 9,
+    id: 7,
     img: "https://e7.pngegg.com/pngimages/336/26/png-clipart-jpmorgan-chase-business-wells-fargo-chase-bank-financial-services-business-text-rectangle.png",
     role: "J.P. Morgan - Software Engineering Job Simulation",
     company: "Forage",
@@ -143,7 +134,7 @@ export const certifications = [
     skills: ["Software Engineering", "Job Simulation"],
   },
   {
-    id: 10,
+    id: 8,
     img: "https://e7.pngegg.com/pngimages/336/26/png-clipart-jpmorgan-chase-business-wells-fargo-chase-bank-financial-services-business-text-rectangle.png",
     role: "JPMorgan Chase - Commercial Banking Job Simulation",
     company: "Forage",
@@ -179,77 +170,73 @@ export const education = [
     desc: "I completed my high school education at Fatima Devi English High School.",
     degree: "High School",
   },
-
 ];
 
 export const projects = [
-       {
-      id: 3,
-      title: "Ochi Clone",
-      date: "June 2024 - Present",
-      description: "Welcome to the Ochi Clone, a fast, responsive web app built with Vite and React.js, featuring a sleek interface and dynamic components.",
-      image: "https://assets.awwwards.com/awards/element/2022/07/62bf690b6a137897567083.png",
-      tags: ["Vite", "React.js", "HTML", "CSS", "JavaScript"],
-      category: "web app",
-      github: "https://github.com/7he9ight0wl/Ochi_Clone_Dark",
-      webapp: "https://ochi-clone-dark-8jgk-7he9ight0wls-projects.vercel.app/"
-    },
-     {
-      id: 3,
-      title: "IMDB Clone",
-      date: "Feb 2023 - Present",
-      description: "Built with HTML, CSS, and JavaScript, replicating the IMDb website's UI and functionality.",
-      image: "https://raw.githubusercontent.com/7he9ight0wl/IMDB-clone/main/images/home_page.png",
-      tags: ["HTML", "CSS", "JavaScript"],
-      category: "web app",
-      github: "https://github.com/7he9ight0wl/IMDB-clone",
-      webapp: "https://7he9ight0wl.github.io/IMDB-clone/"
-    },
-    {
-      id: 2,
-      title: "Superhero-Hunter",
-      date: "Mar 2023 - Present",
-      description: "A fun and interactive web application built with HTML, CSS, and JavaScript, exploring the world of superheroes.",
-      image: "https://raw.githubusercontent.com/7he9ight0wl/Superhero-Hunter/main/assets/4713013.png",
-      tags: ["HTML", "CSS", "JavaScript"],
-      category: "web app",
-      github: "https://github.com/7he9ight0wl/Superhero-Hunter",
-      webapp: "https://7he9ight0wl.github.io/Superhero-Hunter/"
-    },
-    {
-      id: 1,
-      title: "NewsMonkey",
-      date: "May 2023 - Present",
-      description: "An advanced news app developed using React, featuring real-time updates and personalized news recommendations.",
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXXTdZci49s1lRDJpU61ysCjZ43QPxctyNtlTjhYPb_1mhDTqXe3gvGIFO2zH9IIWcnAs",
-      tags: ["React", "JavaScript", "News"],
-      category: "web app",
-      github: "https://github.com/7he9ight0wl/NewsMonkey",
-      webapp: "https://news-monkey-static.vercel.app/"
-    },
-    {
-      id: 1,
-      title: "Text-Modifier",
-      date: "March 2023 - Present",
-      description: "TransformText: React component for dynamic text modification with ease. Apply uppercase, lowercase, title case, and more instantl",
-      image: "https://addons.mozilla.org/user-media/previews/full/228/228908.png?modified=1622134213",
-      tags: ["React", "JavaScript", "Text Modifier"],
-      category: "web app",
-      github: "https://github.com/7he9ight0wl/TextModifier",
-      webapp: "https://text-modifier-one.vercel.app/"
-    },
-    {
-      id: 0,
-      title: "TodoList",
-      date: "Jul 2023 - Present",
-      description: "A sleek task management app developed with React.js/Next.js, featuring real-time updates and responsive design.",
-      image: "https://w7.pngwing.com/pngs/670/265/png-transparent-checkmark-done-exam-list-pencil-todo-xomo-basics-icon-thumbnail.png",
-      tags: ["React.js", "Next.js", "Task Management"],
-      category: "web app",
-      github: "https://github.com/7he9ight0wl/TodoList",
-      webapp: "https://todo-list-chi-self.vercel.app/"
-    },
-  ];
-  
-
-
+  {
+    id: 0,
+    title: "Ochi Clone",
+    date: "June 2024 - Present",
+    description: "Welcome to the Ochi Clone, a fast, responsive web app built with Vite and React.js, featuring a sleek interface and dynamic components.",
+    image: "https://assets.awwwards.com/awards/element/2022/07/62bf690b6a137897567083.png",
+    tags: ["Vite", "React.js", "HTML", "CSS", "JavaScript"],
+    category: "web app",
+    github: "https://github.com/7he9ight0wl/Ochi_Clone_Dark",
+    webapp: "https://ochi-clone-dark-8jgk-7he9ight0wls-projects.vercel.app/",
+  },
+  {
+    id: 1,
+    title: "IMDB Clone",
+    date: "Feb 2023 - Present",
+    description: "Built with HTML, CSS, and JavaScript, replicating the IMDb website's UI and functionality.",
+    image: "https://raw.githubusercontent.com/7he9ight0wl/IMDB-clone/main/images/home_page.png",
+    tags: ["HTML", "CSS", "JavaScript"],
+    category: "web app",
+    github: "https://github.com/7he9ight0wl/IMDB-clone",
+    webapp: "https://7he9ight0wl.github.io/IMDB-clone/",
+  },
+  {
+    id: 2,
+    title: "Superhero-Hunter",
+    date: "Mar 2023 - Present",
+    description: "A fun and interactive web application built with HTML, CSS, and JavaScript, exploring the world of superheroes.",
+    image: "https://raw.githubusercontent.com/7he9ight0wl/Superhero-Hunter/main/assets/4713013.png",
+    tags: ["HTML", "CSS", "JavaScript"],
+    category: "web app",
+    github: "https://github.com/7he9ight0wl/Superhero-Hunter",
+    webapp: "https://7he9ight0wl.github.io/Superhero-Hunter/",
+  },
+  {
+    id: 3,
+    title: "NewsMonkey",
+    date: "May 2023 - Present",
+    description: "An advanced news app developed using React, featuring real-time updates and personalized news recommendations.",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXXTdZci49s1lRDJpU61ysCjZ43QPxctyNtlTjhYPb_1mhDTqXe3gvGIFO2zH9IIWcnAs",
+    tags: ["React", "JavaScript", "News"],
+    category: "web app",
+    github: "https://github.com/7he9ight0wl/NewsMonkey",
+    webapp: "https://news-monkey-static.vercel.app/",
+  },
+  {
+    id: 4,
+    title: "Text-Modifier",
+    date: "March 2023 - Present",
+    description: "TransformText: React component for dynamic text modification with ease. Apply uppercase, lowercase, title case, and more instantly.",
+    image: "https://addons.mozilla.org/user-media/previews/full/228/228908.png?modified=1622134213",
+    tags: ["React", "JavaScript", "Text Modifier"],
+    category: "web app",
+    github: "https://github.com/7he9ight0wl/TextModifier",
+    webapp: "https://text-modifier-one.vercel.app/",
+  },
+  {
+    id: 5,
+    title: "TodoList",
+    date: "Jul 2023 - Present",
+    description: "A sleek task management app developed with React.js/Next.js, featuring real-time updates and responsive design.",
+    image: "https://w7.pngwing.com/pngs/670/265/png-transparent-checkmark-done-exam-list-pencil-todo-xomo-basics-icon-thumbnail.png",
+    tags: ["React.js", "Next.js", "Task Management"],
+    category: "web app",
+    github: "https://github.com/7he9ight0wl/TodoList",
+    webapp: "https://todo-list-chi-self.vercel.app/",
+  },
+];
