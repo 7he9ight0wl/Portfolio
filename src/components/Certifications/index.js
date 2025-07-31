@@ -71,7 +71,7 @@ const TimelineSection = styled.div`
   gap: 12px;
 `;
 
-// Styled ExperienceCard (NEW)
+// Styled ExperienceCard (with left alignment styling)
 const Card = styled.div`
   width: 650px;
   border-radius: 10px;
@@ -195,8 +195,9 @@ const Index = () => {
           Hands-on experience in data analysis using Excel (VLOOKUP, Pivot Tables, Macros), Power BI, SQL, and SAP MM. Built dashboards, automated reporting, tracked KPIs, and integrated real-time business insights. Certified in multiple tools to deliver data-driven decisions and enhance operational performance.
         </Desc>
 
+        {/* Experience Timeline (Left Aligned) */}
         <TimelineSection>
-          <Timeline>
+          <Timeline position="left">
             {experiences.map((exp, index) => (
               <TimelineItem key={index}>
                 <TimelineSeparator>
@@ -213,6 +214,7 @@ const Index = () => {
           </Timeline>
         </TimelineSection>
 
+        {/* Certifications Timeline (Default/Right Side) */}
         <TimelineSection>
           <Timeline>
             {certifications.map((certification, index) => (
