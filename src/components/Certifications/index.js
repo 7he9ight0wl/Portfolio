@@ -71,12 +71,19 @@ const TimelineSection = styled.div`
   gap: 12px;
 `;
 
+// Styled wrapper to make ExperienceCard text white
+const ExpCard = styled.div`
+  color: white;
+`;
+
 const ExperienceCard = ({ experience }) => (
-  <div>
+  <ExpCard>
     <h3 style={{ margin: 0 }}>{experience.role}</h3>
-    <p style={{ margin: '4px 0' }}><strong>{experience.company}</strong> — {experience.date}</p>
+    <p style={{ margin: '4px 0' }}>
+      <strong>{experience.company}</strong> — {experience.date}
+    </p>
     <p style={{ margin: 0 }}>{experience.desc}</p>
-  </div>
+  </ExpCard>
 );
 
 const experiences = [
