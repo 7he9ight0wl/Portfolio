@@ -76,7 +76,7 @@ const Index = () => {
     <Container id="certifications">
       <Wrapper>
         <Title> 
-    Experience & Certifications
+    Certifications
     </Title>
         <Desc>
          Certified in multiple industry-relevant programs with a strong emphasis on data analytics and business intelligence. My primary interest lies in transforming raw data into meaningful insights to support strategic decisions. From building automated dashboards in Excel and Power BI to applying SQL and SAP MM for operational analytics, I have focused my learning and certifications on tools that empower data-driven decision-making. These certifications reflect my commitment to advancing as a Data Analyst, capable of combining analytical thinking with technical expertise to solve real-world business problems.
