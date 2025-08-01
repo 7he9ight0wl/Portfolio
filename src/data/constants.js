@@ -195,7 +195,7 @@ export const projects = [
     tags: ["Power BI", "Data Visualization", "Business Intelligence"],
     category: "data analytics",
     github: "https://github.com/7he9ight0wl/sales-dashboard-powerbi", // Optional
-   
+    webapp: "https://github.com/7he9ight0wl/sales-dashboard-powerbi",
   },
   {
     id: 0,
