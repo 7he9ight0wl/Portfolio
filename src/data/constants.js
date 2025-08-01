@@ -54,7 +54,7 @@ export const skills = [
     skills: [
       {
         name: "Problem Solving",
-        image: "https://cdn-icons-png.flaticon.com/512/681/681494.png",
+        image: "https://cdn-icons-png.flaticon.com/512/3898/3898087.png",
       },
       {
         name: "Communication",
@@ -66,7 +66,7 @@ export const skills = [
       },
       {
         name: "Team Collaboration",
-        image: "https://cdn-icons-png.flaticon.com/512/3898/3898087.png",
+        image: "https://cdn-icons-png.flaticon.com/512/681/681494.png",
       },
     ],
   },
