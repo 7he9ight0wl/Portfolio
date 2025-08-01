@@ -52,10 +52,22 @@ export const skills = [
   {
     title: "Soft Skills",
     skills: [
-      { name: "Problem Solving" },
-      { name: "Communication" },
-      { name: "Time Management" },
-      { name: "Team Collaboration" },
+      {
+        name: "Problem Solving",
+        image: "https://cdn-icons-png.flaticon.com/512/681/681494.png",
+      },
+      {
+        name: "Communication",
+        image: "https://cdn-icons-png.flaticon.com/512/5948/5948565.png",
+      },
+      {
+        name: "Time Management",
+        image: "https://cdn-icons-png.flaticon.com/512/3062/3062634.png",
+      },
+      {
+        name: "Team Collaboration",
+        image: "https://cdn-icons-png.flaticon.com/512/3898/3898087.png",
+      },
     ],
   },
 ];
