@@ -186,22 +186,38 @@ export const education = [
 
 export const projects = [
   {
+    id: 6,
+    title: "SN Corp Power BI Dashboard",
+    date: "July 2025",
+    description:
+      "An interactive Power BI dashboard built for SN Corp to visualize sales, cost, and profit insights across countries, regions, and time. Features slicers, map visuals, KPIs, and customer-level analytics for strategic decision-making.",
+    image: "https://raw.githubusercontent.com/7he9ight0wl/sales-dashboard-powerbi/refs/heads/main/Screenshot%202025-08-01%20055058.png", // Replace with actual image URL or use the GitHub raw URL
+    tags: ["Power BI", "Data Visualization", "Business Intelligence"],
+    category: "data analytics",
+    github: "https://github.com/7he9ight0wl/sales-dashboard-powerbi", // Optional
+   
+  },
+  {
     id: 0,
     title: "Ochi Clone",
     date: "June 2024 - Present",
-    description: "Welcome to the Ochi Clone, a fast, responsive web app built with Vite and React.js, featuring a sleek interface and dynamic components.",
+    description:
+      "Welcome to the Ochi Clone, a fast, responsive web app built with Vite and React.js, featuring a sleek interface and dynamic components.",
     image: "https://assets.awwwards.com/awards/element/2022/07/62bf690b6a137897567083.png",
     tags: ["Vite", "React.js", "HTML", "CSS", "JavaScript"],
     category: "web app",
     github: "https://github.com/7he9ight0wl/Ochi_Clone_Dark",
-    webapp: "https://ochi-clone-dark-8jgk-7he9ight0wls-projects.vercel.app/",
+    webapp:
+      "https://ochi-clone-dark-8jgk-7he9ight0wls-projects.vercel.app/",
   },
   {
     id: 1,
     title: "IMDB Clone",
     date: "Feb 2023 - Present",
-    description: "Built with HTML, CSS, and JavaScript, replicating the IMDb website's UI and functionality.",
-    image: "https://raw.githubusercontent.com/7he9ight0wl/IMDB-clone/main/images/home_page.png",
+    description:
+      "Built with HTML, CSS, and JavaScript, replicating the IMDb website's UI and functionality.",
+    image:
+      "https://raw.githubusercontent.com/7he9ight0wl/IMDB-clone/main/images/home_page.png",
     tags: ["HTML", "CSS", "JavaScript"],
     category: "web app",
     github: "https://github.com/7he9ight0wl/IMDB-clone",
@@ -211,8 +227,10 @@ export const projects = [
     id: 2,
     title: "Superhero-Hunter",
     date: "Mar 2023 - Present",
-    description: "A fun and interactive web application built with HTML, CSS, and JavaScript, exploring the world of superheroes.",
-    image: "https://raw.githubusercontent.com/7he9ight0wl/Superhero-Hunter/main/assets/4713013.png",
+    description:
+      "A fun and interactive web application built with HTML, CSS, and JavaScript, exploring the world of superheroes.",
+    image:
+      "https://raw.githubusercontent.com/7he9ight0wl/Superhero-Hunter/main/assets/4713013.png",
     tags: ["HTML", "CSS", "JavaScript"],
     category: "web app",
     github: "https://github.com/7he9ight0wl/Superhero-Hunter",
@@ -222,8 +240,10 @@ export const projects = [
     id: 3,
     title: "NewsMonkey",
     date: "May 2023 - Present",
-    description: "An advanced news app developed using React, featuring real-time updates and personalized news recommendations.",
-    image: "https://raw.githubusercontent.com/7he9ight0wl/NewsMonkey/refs/heads/main/public/cute-monkey-holding-banana-cartoon-icon-illustration-animal-food-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg",
+    description:
+      "An advanced news app developed using React, featuring real-time updates and personalized news recommendations.",
+    image:
+      "https://raw.githubusercontent.com/7he9ight0wl/NewsMonkey/refs/heads/main/public/cute-monkey-holding-banana-cartoon-icon-illustration-animal-food-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg",
     tags: ["React", "JavaScript", "News"],
     category: "web app",
     github: "https://github.com/7he9ight0wl/NewsMonkey",
@@ -233,8 +253,10 @@ export const projects = [
     id: 4,
     title: "Text-Modifier",
     date: "March 2023 - Present",
-    description: "TransformText: React component for dynamic text modification with ease. Apply uppercase, lowercase, title case, and more instantly.",
-    image: "https://raw.githubusercontent.com/7he9ight0wl/TextModifier/refs/heads/main/public/ms-icon-310x310.png",
+    description:
+      "TransformText: React component for dynamic text modification with ease. Apply uppercase, lowercase, title case, and more instantly.",
+    image:
+      "https://raw.githubusercontent.com/7he9ight0wl/TextModifier/refs/heads/main/public/ms-icon-310x310.png",
     tags: ["React", "JavaScript", "Text Modifier"],
     category: "web app",
     github: "https://github.com/7he9ight0wl/TextModifier",
@@ -244,8 +266,10 @@ export const projects = [
     id: 5,
     title: "TodoList",
     date: "Jul 2023 - Present",
-    description: "A sleek task management app developed with React.js/Next.js, featuring real-time updates and responsive design.",
-    image: "https://w7.pngwing.com/pngs/670/265/png-transparent-checkmark-done-exam-list-pencil-todo-xomo-basics-icon-thumbnail.png",
+    description:
+      "A sleek task management app developed with React.js/Next.js, featuring real-time updates and responsive design.",
+    image:
+      "https://w7.pngwing.com/pngs/670/265/png-transparent-checkmark-done-exam-list-pencil-todo-xomo-basics-icon-thumbnail.png",
     tags: ["React.js", "Next.js", "Task Management"],
     category: "web app",
     github: "https://github.com/7he9ight0wl/TodoList",
