@@ -4,7 +4,7 @@ export const Bio = {
   description:
     "Data Analyst with a Mechanical Engineering background. Proficient in Power BI, SQL, Excel Automation, and SAP MM. Skilled at building automated dashboards, transforming raw data into business insights, and improving operational efficiency across marketing, execution, and sales.",
   github: "https://github.com/7he9ight0wl",
-  resume: "https://drive.google.com/file/d/12alkWVtAaYAmxzVr9KXwYGJlxXJpOfMM/view?usp=drive_link",
+  resume: "https://drive.google.com/file/d/1xZ28CJfAqzLpO6i1ZyKJjAugpYQ3JZJc/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/7he9ight0wl",
   insta: "https://www.instagram.com/7he.9ight.0wl/",
   facebook: "https://www.facebook.com/pradu53",
